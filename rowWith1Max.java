@@ -11,7 +11,6 @@ class Solution {
 		}
 		int r=j==m-1?-1:index;
 	    	System.out.println(r);
-		return r;
     }
 }
 //This is added to a sub branch for verification
