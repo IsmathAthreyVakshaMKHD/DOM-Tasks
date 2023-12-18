@@ -10,6 +10,7 @@ class Solution {
 		    }
 		}
 		int r=j==m-1?-1:index;
+	    	System.out.println(r);
 		return r;
     }
 }
